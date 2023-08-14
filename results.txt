@@ -1,0 +1,20 @@
+40.0%		
+	FILEPATH: C:\Users\ayoub\OneDrive\Bureau\finalmatcherejobapplication\jobs\./static/files\CVAYOUB2023.pdf		
+	KEYWORDS: ['java', 'c', 'reactjs', 'javascript', 'php']		
+	MATCHES: ['java', 'php']		
+
+100.0%		
+	FILEPATH: C:\Users\ayoub\OneDrive\Bureau\finalmatcherejobapplication\jobs\./static/files\cvMedBenSlimen.pdf		
+	KEYWORDS: ['reactjs', 'java', 'php', 'javascript', 'c']		
+	MATCHES: ['reactjs', 'java', 'php', 'javascript', 'c']		
+
+60.0%		
+	FILEPATH: C:\Users\ayoub\OneDrive\Bureau\finalmatcherejobapplication\jobs\./static/files\cvMedBenSlimen.pdf		
+	KEYWORDS: ['mongodb', 'reactjs', 'docker', 'java', 'php', 'c', 'react', 'javascript', 'js', 'node']		
+	MATCHES: ['mongodb', 'reactjs', 'java', 'php', 'c', 'javascript']		
+
+60.0%		
+	FILEPATH: C:\Users\ayoub\OneDrive\Bureau\finalmatcherejobapplication\jobs\./static/files\cvMedBenSlimen.pdf		
+	KEYWORDS: ['mongodb', 'reactjs', 'docker', 'java', 'php', 'c', 'react', 'javascript', 'js', 'node']		
+	MATCHES: ['mongodb', 'reactjs', 'java', 'php', 'c', 'javascript']		
+
